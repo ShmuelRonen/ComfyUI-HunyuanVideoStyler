@@ -1,0 +1,62 @@
+[
+    {
+        "name": "rule-of-thirds",
+        "prompt": "{prompt} . dynamic rule of thirds composition, balanced framing, strategic subject placement, flowing visual movement, professional framing",
+        "negative_prompt": "centered composition, unbalanced framing, amateur composition"
+    },
+    {
+        "name": "symmetrical",
+        "prompt": "{prompt} . perfect symmetrical composition, mirror-like balance, centered framing, architectural symmetry, geometric balance",
+        "negative_prompt": "asymmetric composition, uneven framing, off-center"
+    },
+    {
+        "name": "leading-lines",
+        "prompt": "{prompt} . strong leading lines, dynamic directional flow, geometric guidance, perspective lines, architectural composition",
+        "negative_prompt": "chaotic composition, lack of direction, messy framing"
+    },
+    {
+        "name": "frame-within-frame",
+        "prompt": "{prompt} . natural framing elements, compositional frames, architectural framing, layered composition, depth through framing",
+        "negative_prompt": "flat composition, no framing elements, simple composition"
+    },
+    {
+        "name": "diagonal-dynamic",
+        "prompt": "{prompt} . diagonal composition, dynamic angular framing, energetic diagonals, dramatic perspective, movement through diagonals",
+        "negative_prompt": "static horizontal lines, vertical composition, flat framing"
+    },
+    {
+        "name": "layered-depth",
+        "prompt": "{prompt} . multiple depth layers, foreground interest, middle ground action, background context, complex scene composition",
+        "negative_prompt": "flat composition, single plane, no depth layers"
+    },
+    {
+        "name": "triangular",
+        "prompt": "{prompt} . triangular composition, pyramid structure, stable geometric framing, dynamic triangle arrangement",
+        "negative_prompt": "random composition, chaotic arrangement, unstructured framing"
+    },
+    {
+        "name": "golden-ratio",
+        "prompt": "{prompt} . golden spiral composition, fibonacci sequence framing, natural balance, harmonious arrangement, flowing visual movement",
+        "negative_prompt": "random composition, unbalanced framing, chaotic arrangement"
+    },
+    {
+        "name": "negative-space",
+        "prompt": "{prompt} . strategic use of negative space, minimalist composition, breathing room, artistic white space, balanced emptiness",
+        "negative_prompt": "cluttered composition, busy frame, overcrowded scene"
+    },
+    {
+        "name": "s-curve",
+        "prompt": "{prompt} . s-curve compositional flow, sinuous visual path, elegant curved movement, flowing scene arrangement",
+        "negative_prompt": "rigid composition, straight lines only, static arrangement"
+    },
+    {
+        "name": "radial",
+        "prompt": "{prompt} . radial composition, circular arrangement, center-out movement, spinning visual flow, orbital scene structure",
+        "negative_prompt": "linear composition, grid-like arrangement, rectangular framing"
+    },
+    {
+        "name": "pattern-repetition",
+        "prompt": "{prompt} . rhythmic visual patterns, repeating elements, structured repetition, geometric patterns, organized visual rhythm",
+        "negative_prompt": "random arrangement, chaotic composition, lack of pattern"
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "name": "golden-hour",
+        "prompt": "{prompt} . magic hour lighting, warm golden sunlight, long shadows, sunset/sunrise atmosphere, soft directional light movement",
+        "negative_prompt": "harsh daylight, flat lighting, noon sun, dark night"
+    },
+    {
+        "name": "blue-hour",
+        "prompt": "{prompt} . twilight ambient light, soft blue atmospheric lighting, subtle cool tones, gentle evening/morning glow",
+        "negative_prompt": "bright sunlight, warm tones, harsh shadows"
+    },
+    {
+        "name": "harsh-noon",
+        "prompt": "{prompt} . strong overhead sunlight, sharp shadows, bright daylight, intense natural lighting, high contrast movement",
+        "negative_prompt": "soft lighting, diffused light, dark atmosphere"
+    },
+    {
+        "name": "midnight",
+        "prompt": "{prompt} . deep night atmosphere, moonlit scene, dark ambient lighting, night time mood, subtle darkness movement",
+        "negative_prompt": "daylight, bright scene, sunny atmosphere"
+    },
+    {
+        "name": "dawn-breaking",
+        "prompt": "{prompt} . early morning light, breaking dawn atmosphere, emerging sunlight, morning mist, sunrise color progression",
+        "negative_prompt": "evening light, harsh daylight, night darkness"
+    },
+    {
+        "name": "dusk-settling",
+        "prompt": "{prompt} . evening settling light, fading daylight, approaching darkness, sunset transition, dusk atmosphere movement",
+        "negative_prompt": "bright daylight, morning light, complete darkness"
+    },
+    {
+        "name": "morning-glow",
+        "prompt": "{prompt} . soft morning sunlight, fresh daylight, gentle shadows, early day atmosphere, awakening light movement",
+        "negative_prompt": "evening atmosphere, harsh noon light, night darkness"
+    },
+    {
+        "name": "afternoon-light",
+        "prompt": "{prompt} . mid-day soft light, gentle afternoon sun, balanced natural lighting, daytime atmosphere",
+        "negative_prompt": "golden hour, night time, dawn light"
+    },
+    {
+        "name": "night-artificial",
+        "prompt": "{prompt} . urban night lighting, artificial light sources, city night atmosphere, mixed lighting movement",
+        "negative_prompt": "natural daylight, sunrise, sunset"
+    },
+    {
+        "name": "pre-storm",
+        "prompt": "{prompt} . dramatic storm lighting, dark cloud movement, atmospheric tension, dynamic weather light",
+        "negative_prompt": "clear sky lighting, bright sunlight, stable atmosphere"
+    },
+    {
+        "name": "moonlit-night",
+        "prompt": "{prompt} . full moon lighting, soft moonlight shadows, night sky illumination, gentle lunar glow movement",
+        "negative_prompt": "sunlit, daylight, artificial lighting"
+    },
+    {
+        "name": "twilight-transition",
+        "prompt": "{prompt} . day-to-night transition lighting, changing natural light, dynamic sky illumination, temporal light shift",
+        "negative_prompt": "static lighting, constant daylight, fixed night"
+    }
+]

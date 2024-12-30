@@ -1,0 +1,72 @@
+[
+    {
+        "name": "slow-motion",
+        "prompt": "{prompt} . elegant slow motion effect, fluid temporal movement, high frame rate look, crisp motion detail, smooth action flow",
+        "negative_prompt": "normal speed, choppy movement, blurred motion"
+    },
+    {
+        "name": "time-lapse",
+        "prompt": "{prompt} . dynamic time lapse movement, flowing cloud motion, accelerated sequences, smooth temporal compression",
+        "negative_prompt": "regular speed, static scenes, single moment"
+    },
+    {
+        "name": "particle-fx",
+        "prompt": "{prompt} . floating particles effect, dynamic particle movement, atmospheric dust, light rays with particles, magical floating elements",
+        "negative_prompt": "clean air, no particles, clear atmosphere"
+    },
+    {
+        "name": "double-exposure",
+        "prompt": "{prompt} . overlapping imagery, ethereal double exposure, blended scenes, dreamy overlay effect, transparent layers",
+        "negative_prompt": "single exposure, clear image, solid composition"
+    },
+    {
+        "name": "motion-blur",
+        "prompt": "{prompt} . dynamic motion trails, speed blur effect, movement streaks, action blur, velocity trails",
+        "negative_prompt": "static image, sharp details, frozen motion"
+    },
+    {
+        "name": "glitch-art",
+        "prompt": "{prompt} . digital glitch effects, data corruption aesthetic, dynamic interference, electronic distortion, pixelated artifacts",
+        "negative_prompt": "clean image, no distortion, clear picture"
+    },
+    {
+        "name": "light-streaks",
+        "prompt": "{prompt} . dynamic light trails, glowing streaks, luminous paths, energy trails, flowing light effects",
+        "negative_prompt": "static lighting, no trails, plain light"
+    },
+    {
+        "name": "lens-flare",
+        "prompt": "{prompt} . cinematic lens flares, anamorphic streaks, dynamic light artifacts, optical flourishes, dramatic flare effects",
+        "negative_prompt": "no lens effects, clean image, flare-free"
+    },
+    {
+        "name": "volumetric-fog",
+        "prompt": "{prompt} . atmospheric volumetric fog, dynamic mist movement, ethereal haze, smoky atmosphere, flowing fog effects",
+        "negative_prompt": "clear air, no fog, clean atmosphere"
+    },
+    {
+        "name": "rain-effects",
+        "prompt": "{prompt} . dynamic rain drops, water streaks, rain motion, wet effects, atmospheric precipitation",
+        "negative_prompt": "dry scene, clear weather, no water effects"
+    },
+    {
+        "name": "energy-fx",
+        "prompt": "{prompt} . glowing energy effects, dynamic power streams, electrical arcs, flowing energy trails, magical power effects",
+        "negative_prompt": "no effects, plain scene, natural look"
+    },
+    {
+        "name": "mirror-effect",
+        "prompt": "{prompt} . kaleidoscopic reflections, mirror plane effects, symmetrical duplications, reflecting surface movement",
+        "negative_prompt": "single image, no reflection, plain view"
+    },
+    {
+        "name": "dream-sequence",
+        "prompt": "{prompt} . ethereal dreamy effect, soft focus transitions, flowing dreamlike movements, surreal motion blur",
+        "negative_prompt": "sharp reality, clear focus, normal perception"
+    },
+    {
+        "name": "matrix-bullet-time",
+        "prompt": "{prompt} . frozen moment, 360-degree rotation, suspended action, bullet time effect, dynamic frozen frame",
+        "negative_prompt": "normal speed, single angle, continuous motion"
+    }
+]

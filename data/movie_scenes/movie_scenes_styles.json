@@ -1,0 +1,167 @@
+[
+   {
+       "name": "matrix-lobby",
+       "prompt": "{prompt} . bullet-time sequence, circular camera array, frozen moment movement, leather-clad characters, green tinted lighting, action sequence, slow motion combat, precise choreographed movement, bullet trails, dynamic martial arts",
+       "negative_prompt": "fast motion, single camera angle, natural lighting, casual movement"
+   },
+   {
+       "name": "inception-hallway",
+       "prompt": "{prompt} . rotating corridor shot, gravity-defying movement, dream-like architecture, shifting perspective, smooth camera rotation, surreal spatial dynamics, folding city effects, paradoxical architecture, impossible spaces",
+       "negative_prompt": "stable horizon, normal gravity, static camera, conventional perspective"
+   },
+   {
+       "name": "titanic-deck",
+       "prompt": "{prompt} . epic sunset ocean shot, romantic golden hour lighting, majestic ship deck, sweeping camera movement, emotional intimate moment, wind-blown movement",
+       "negative_prompt": "indoor scene, static camera, dull lighting, cramped space"
+   },
+   {
+       "name": "star-wars-space",
+       "prompt": "{prompt} . epic space battle scene, dynamic starship movement, laser fire effects, dramatic space vista, high-speed pursuit, star-filled background",
+       "negative_prompt": "earth atmosphere, ground-based scene, slow movement"
+   },
+   {
+       "name": "lord-rings-landscape",
+       "prompt": "{prompt} . sweeping New Zealand landscape, epic aerial shot, fantasy wilderness, majestic mountain views, dramatic natural lighting, vast scenic vista",
+       "negative_prompt": "urban setting, indoor scene, close-up shots"
+   },
+   {
+       "name": "harry-potter-magic",
+       "prompt": "{prompt} . magical particle effects, wand-lighting atmosphere, floating magical elements, gothic architecture, enchanted environment, mystical ambiance",
+       "negative_prompt": "mundane setting, no effects, modern architecture"
+   },
+   {
+       "name": "fight-club-basement",
+       "prompt": "{prompt} . gritty underground setting, harsh contrast lighting, sweaty atmosphere, raw handheld camera work, fluorescent lighting flicker, intense close-ups",
+       "negative_prompt": "clean environment, stable camera, soft lighting"
+   },
+   {
+       "name": "alien-spacecraft",
+       "prompt": "{prompt} . dark industrial corridor, steam vents, emergency lighting, claustrophobic spaces, mechanical environment, suspenseful tracking shots",
+       "negative_prompt": "bright lighting, open spaces, natural setting"
+   },
+   {
+       "name": "indiana-jones-adventure",
+       "prompt": "{prompt} . ancient temple setting, dramatic torch lighting, action-packed movement, treasure hunting atmosphere, adventurous camera work, exotic location",
+       "negative_prompt": "modern setting, static shots, ordinary lighting"
+   },
+   {
+       "name": "terminator-future",
+       "prompt": "{prompt} . post-apocalyptic war zone, blue-steel color grading, robotic combat, futuristic destruction, night battle scene, laser and plasma effects",
+       "negative_prompt": "peaceful setting, daytime scene, natural environment"
+   },
+   {
+       "name": "avatar-pandora",
+       "prompt": "{prompt} . bioluminescent forest, floating mountains, alien wildlife, ethereal lighting, exotic alien landscape, vibrant color palette",
+       "negative_prompt": "earth-like setting, dull colors, urban environment"
+   },
+   {
+       "name": "joker-stairs",
+       "prompt": "{prompt} . urban stairs location, gritty city atmosphere, dramatic character movement, desaturated color palette, lonely urban landscape",
+       "negative_prompt": "cheerful setting, bright colors, natural environment"
+   },
+   {
+       "name": "kill-bill-duel",
+       "prompt": "{prompt} . martial arts showdown, dramatic silhouettes, Japanese garden setting, sword fight choreography, tension-filled atmosphere",
+       "negative_prompt": "modern setting, casual movement, peaceful atmosphere"
+   },
+   {
+       "name": "tron-legacy-grid",
+       "prompt": "{prompt} . neon grid lines, dark virtual world, glowing light trails, sleek digital environment, high contrast lighting, geometric patterns",
+       "negative_prompt": "natural environment, soft lighting, organic shapes"
+   },
+   {
+       "name": "interstellar-space",
+       "prompt": "{prompt} . realistic space environment, scientifically accurate visuals, epic scale space structures, dramatic space vistas, realistic spacecraft movement, realistic black hole effects, time dilation visuals",
+       "negative_prompt": "fantasy space, unrealistic effects, earth-bound scenes"
+   },
+   {
+       "name": "2001-space-odyssey",
+       "prompt": "{prompt} . slow, deliberate camera movements, sterile white spacecraft interior, vast blackness of space, minimalist design, sense of awe and mystery, Kubrickian composition",
+       "negative_prompt": "fast-paced action, cluttered spaces, earth-like environment"
+   },
+   {
+       "name": "blade-runner-2049",
+       "prompt": "{prompt} . neon-drenched cityscape, rainy atmosphere, dystopian future, holographic advertisements, gritty urban decay, slow tracking shots, somber mood",
+       "negative_prompt": "bright sunny day, natural landscapes, utopian setting"
+   },
+   {
+       "name": "mad-max-fury-road",
+       "prompt": "{prompt} . high-speed car chase, post-apocalyptic desert landscape, intense action, dust storms, explosive effects, fast cuts, chaotic camera movement",
+       "negative_prompt": "slow-paced scenes, green landscapes, peaceful atmosphere"
+   },
+   {
+       "name": "pulp-fiction-diner",
+       "prompt": "{prompt} . retro diner setting, vibrant color palette, quirky dialogue, close-up shots, non-linear storytelling, stylized violence",
+       "negative_prompt": "realistic setting, muted colors, conventional dialogue"
+   },
+   {
+       "name": "goodfellas-copacabana",
+       "prompt": "{prompt} . long tracking shot through a crowded nightclub, energetic atmosphere, handheld camera work, sense of immersion, fast-paced dialogue, Scorsese-style filmmaking",
+       "negative_prompt": "static camera, empty spaces, slow pacing"
+   },
+   {
+       "name": "jurassic-park-jungle",
+       "prompt": "{prompt} . lush prehistoric jungle, towering dinosaurs, suspenseful atmosphere, wide-angle shots, sense of scale and wonder, dramatic lighting",
+       "negative_prompt": "modern city setting, small animals, peaceful atmosphere"
+   },
+   {
+       "name": "sin-city-noir",
+       "prompt": "{prompt} . high contrast black and white with selective color, graphic novel style, stylized violence, shadowy figures, neo-noir atmosphere, stark lighting",
+       "negative_prompt": "full color, realistic style, peaceful scenes"
+   },
+   {
+       "name": "wes-anderson-symmetry",
+       "prompt": "{prompt} . symmetrical composition, pastel color palette, meticulous set design, quirky characters, deadpan humor, centered camera angles, flat perspective",
+       "negative_prompt": "asymmetrical composition, realistic set design, serious tone"
+   },
+   {
+       "name": "kubrick-stare",
+       "prompt": "{prompt} . intense close-up on a character's face, direct eye contact with the camera, unsettling atmosphere, wide angle lens, psychological tension, Kubrick Stare",
+       "negative_prompt": "looking away, soft lighting, relaxed atmosphere"
+   },
+   {
+       "name": "spielberg-wonder",
+       "prompt": "{prompt} . sense of awe and wonder, dramatic lighting from below, child-like perspective, emotional close-ups, sense of discovery, Spielbergian lighting",
+       "negative_prompt": "cynical atmosphere, flat lighting, adult perspective"
+   },
+   {
+       "name": "taxi-driver-street",
+       "prompt": "{prompt} . neon-lit rainy streets, reflection on wet pavement, slow cruising shots, urban night atmosphere, isolated character perspective, Scorsese-style street scenes",
+       "negative_prompt": "daylight scenes, crowded spaces, cheerful atmosphere"
+   },
+   {
+       "name": "requiem-dream-intensity",
+       "prompt": "{prompt} . rapid montage sequence, intense close-ups, split-screen effects, rhythmic cutting, heightened reality, experimental camera moves",
+       "negative_prompt": "slow pace, single screen, conventional shots"
+   },
+   {
+       "name": "clockwork-orange-style",
+       "prompt": "{prompt} . ultra-wide angle lens, symmetric composition, surreal set design, theatrical lighting, disturbing atmosphere, stark color contrast",
+       "negative_prompt": "natural perspective, realistic setting, warm atmosphere"
+   },
+   {
+       "name": "oldboy-corridor",
+       "prompt": "{prompt} . side-scrolling long take, hallway fight sequence, continuous camera movement, raw combat choreography, gritty atmosphere",
+       "negative_prompt": "multiple cuts, clean fighting, static camera"
+   },
+   {
+       "name": "shining-steadicam",
+       "prompt": "{prompt} . smooth steadicam tracking shots, haunted hotel corridors, ominous following camera, slow creeping movement, supernatural horror atmosphere",
+       "negative_prompt": "shaky camera, bright lighting, cheerful mood"
+   },
+   {
+       "name": "akira-neo-tokyo",
+       "prompt": "{prompt} . cyberpunk anime style, neon-lit megacity, high-speed vehicle chase, dynamic explosion effects, detailed mechanical animation, dystopian atmosphere",
+       "negative_prompt": "realistic style, natural setting, peaceful scenes"
+   },
+   {
+       "name": "ghost-shell-cityscape",
+       "prompt": "{prompt} . futuristic Hong Kong inspired cityscape, cyber-noir atmosphere, detailed mechanical animation, philosophical mood, rain-soaked neon lighting",
+       "negative_prompt": "historical setting, bright daylight, simple animation"
+   },
+   {
+       "name": "leone-western",
+       "prompt": "{prompt} . extreme close-up shots, wide desert vistas, dramatic standoff framing, epic spaghetti western style, harsh sun lighting, dusty atmosphere",
+       "negative_prompt": "modern setting, urban environment, soft lighting"
+   }
+]

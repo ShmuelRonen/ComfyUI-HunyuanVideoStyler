@@ -1,0 +1,62 @@
+[
+    {
+        "name": "golden-hour",
+        "prompt": "{prompt} . warm sunset lighting, soft golden rays, natural rim lighting, atmospheric sun flares, magic hour illumination, dynamic light rays",
+        "negative_prompt": "harsh lighting, flat illumination, dull lighting, artificial light"
+    },
+    {
+        "name": "dramatic-contrast",
+        "prompt": "{prompt} . high contrast lighting, strong shadows, dramatic chiaroscuro, dynamic light placement, moody illumination, cinematic shadows",
+        "negative_prompt": "flat lighting, even illumination, soft shadows, low contrast"
+    },
+    {
+        "name": "soft-diffused",
+        "prompt": "{prompt} . soft diffused lighting, gentle illumination, wrapped lighting, flattering soft shadows, natural fill light",
+        "negative_prompt": "harsh shadows, strong contrast, hard lighting"
+    },
+    {
+        "name": "neon-noir",
+        "prompt": "{prompt} . colorful neon lighting, cyberpunk illumination, vibrant light sources, dynamic color contrast, atmospheric glow",
+        "negative_prompt": "natural lighting, daylight, soft illumination"
+    },
+    {
+        "name": "moody-lowkey",
+        "prompt": "{prompt} . low-key lighting, dramatic shadows, minimal fill light, atmospheric darkness, strategic highlights",
+        "negative_prompt": "bright lighting, even illumination, high-key lighting"
+    },
+    {
+        "name": "backlit-silhouette",
+        "prompt": "{prompt} . strong backlighting, dramatic silhouettes, rim lighting, atmospheric haze, dynamic light streaming",
+        "negative_prompt": "front lighting, flat illumination, even exposure"
+    },
+    {
+        "name": "studio-beauty",
+        "prompt": "{prompt} . professional studio lighting, beauty dish main light, soft fill lights, hair light, controlled illumination",
+        "negative_prompt": "natural lighting, harsh shadows, uncontrolled light"
+    },
+    {
+        "name": "rainy-reflection",
+        "prompt": "{prompt} . wet surface reflections, dynamic puddle reflections, scattered light sources, moody rain lighting",
+        "negative_prompt": "dry surfaces, no reflections, flat lighting"
+    },
+    {
+        "name": "spot-dramatic",
+        "prompt": "{prompt} . focused spotlight, theatrical lighting, dramatic spotlight beam, concentrated illumination, dark surroundings",
+        "negative_prompt": "even lighting, full scene illumination, flat lighting"
+    },
+    {
+        "name": "natural-window",
+        "prompt": "{prompt} . soft window lighting, natural directional light, gentle shadows, atmospheric beams, interior daylight",
+        "negative_prompt": "artificial lighting, harsh illumination, studio lights"
+    },
+    {
+        "name": "concert-dynamic",
+        "prompt": "{prompt} . dynamic stage lighting, moving light beams, color changing illumination, atmospheric haze, dramatic spotlights",
+        "negative_prompt": "static lighting, natural illumination, consistent light"
+    },
+    {
+        "name": "firelight-warm",
+        "prompt": "{prompt} . warm flickering illumination, fire-lit atmosphere, dynamic orange glow, subtle shadow movement, cozy lighting",
+        "negative_prompt": "cold lighting, static illumination, daylight"
+    }
+]

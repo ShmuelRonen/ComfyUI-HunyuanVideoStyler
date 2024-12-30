@@ -1,0 +1,72 @@
+[
+    {
+        "name": "rainy-atmosphere",
+        "prompt": "{prompt} . dynamic rain effects, water droplets in motion, rain streaks movement, wet surfaces reflections, moody rainy atmosphere",
+        "negative_prompt": "dry weather, clear skies, no precipitation, sunny conditions"
+    },
+    {
+        "name": "storm-dramatic",
+        "prompt": "{prompt} . dramatic storm movement, lightning flashes, heavy rain motion, wind-blown elements, intense weather dynamics",
+        "negative_prompt": "calm weather, clear skies, stable conditions"
+    },
+    {
+        "name": "foggy-mystic",
+        "prompt": "{prompt} . moving fog banks, dynamic mist flows, ethereal fog movement, atmospheric haze motion, mysterious fog patterns",
+        "negative_prompt": "clear air, no fog, high visibility"
+    },
+    {
+        "name": "snow-falling",
+        "prompt": "{prompt} . gentle snowfall movement, floating snowflakes, snow accumulation, winter precipitation motion, snowy atmosphere",
+        "negative_prompt": "no snow, clear winter, dry conditions"
+    },
+    {
+        "name": "blizzard-intense",
+        "prompt": "{prompt} . intense snow storm movement, blowing snow effects, harsh winter conditions, dynamic snowfall, white-out motion",
+        "negative_prompt": "light snow, calm winter, gentle snowfall"
+    },
+    {
+        "name": "sunny-bright",
+        "prompt": "{prompt} . bright sunlight movement, sun ray dynamics, clear sky brilliance, warm light patterns, sunny atmosphere",
+        "negative_prompt": "cloudy conditions, dark atmosphere, gloomy weather"
+    },
+    {
+        "name": "cloudy-dynamic",
+        "prompt": "{prompt} . moving cloud formations, dynamic cloud patterns, shifting overcast, flowing cloudscape, atmospheric cloud movement",
+        "negative_prompt": "clear skies, static clouds, no cloud movement"
+    },
+    {
+        "name": "windy-movement",
+        "prompt": "{prompt} . wind-blown elements, dynamic breeze effects, moving foliage, wind motion patterns, atmospheric wind movement",
+        "negative_prompt": "still air, no wind, calm conditions"
+    },
+    {
+        "name": "autumn-leaves",
+        "prompt": "{prompt} . falling autumn leaves, swirling leaf movement, seasonal dynamics, floating foliage motion, fall atmosphere",
+        "negative_prompt": "still leaves, no movement, static autumn scene"
+    },
+    {
+        "name": "desert-sandstorm",
+        "prompt": "{prompt} . swirling sand movement, dynamic dust storm, desert wind patterns, sand particle motion, harsh atmosphere",
+        "negative_prompt": "calm desert, clear air, no sand movement"
+    },
+    {
+        "name": "tropical-rain",
+        "prompt": "{prompt} . warm rain movement, tropical downpour, monsoon effects, humid atmosphere, exotic rain patterns",
+        "negative_prompt": "dry tropical scene, no rain, clear tropical weather"
+    },
+    {
+        "name": "misty-morning",
+        "prompt": "{prompt} . morning mist movement, dawn fog flow, early dew effects, gentle atmospheric motion, soft morning haze",
+        "negative_prompt": "clear morning, no mist, sharp visibility"
+    },
+    {
+        "name": "heat-wave",
+        "prompt": "{prompt} . heat distortion movement, thermal wave effects, hot air dynamics, summer haze motion, intense heat atmosphere",
+        "negative_prompt": "cool conditions, no heat distortion, clear air"
+    },
+    {
+        "name": "rainbow-after-rain",
+        "prompt": "{prompt} . rainbow formation, post-rain atmosphere, clearing storm movement, prismatic light effects, weather transition",
+        "negative_prompt": "no rainbow, complete storm, clear weather"
+    }
+]

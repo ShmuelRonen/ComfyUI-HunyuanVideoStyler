@@ -1,0 +1,72 @@
+[
+    {
+        "name": "handheld-documentary",
+        "prompt": "{prompt} . intimate handheld camera movement, documentary-style motion, natural shake, authentic movement, reactive camera work",
+        "negative_prompt": "static shots, perfectly stable, rigid movement"
+    },
+    {
+        "name": "steadicam-flow",
+        "prompt": "{prompt} . smooth steadicam movement, fluid camera motion, elegant tracking, continuous flow, professional stabilization",
+        "negative_prompt": "shaky footage, unstable movement, jerky motion"
+    },
+    {
+        "name": "long-take",
+        "prompt": "{prompt} . continuous single shot, unbroken camera movement, flowing scene transition, sustained tracking shot",
+        "negative_prompt": "quick cuts, multiple shots, rapid editing"
+    },
+    {
+        "name": "action-cam",
+        "prompt": "{prompt} . dynamic first-person movement, immersive pov shots, fast-paced camera work, high-energy motion",
+        "negative_prompt": "static shots, slow movement, distant perspective"
+    },
+    {
+        "name": "news-style",
+        "prompt": "{prompt} . professional broadcast camera work, news coverage style, clear steady shots, journalistic movement",
+        "negative_prompt": "artistic shots, dramatic movement, cinematic style"
+    },
+    {
+        "name": "music-video",
+        "prompt": "{prompt} . rhythmic camera movement, dynamic music video style, stylized motion, energetic camera work",
+        "negative_prompt": "static shots, documentary style, natural movement"
+    },
+    {
+        "name": "surveillance-cam",
+        "prompt": "{prompt} . fixed security camera angle, surveillance footage style, static monitoring shot, cctv perspective",
+        "negative_prompt": "moving camera, dynamic shots, cinematic movement"
+    },
+    {
+        "name": "vintage-film",
+        "prompt": "{prompt} . old film camera movement, classic cinema style, retro camera work, traditional pan and tilt",
+        "negative_prompt": "modern stabilization, digital smoothness, contemporary style"
+    },
+    {
+        "name": "commercial-polish",
+        "prompt": "{prompt} . high-end commercial shooting style, polished camera movement, premium production value, professional filming",
+        "negative_prompt": "amateur footage, rough movement, unprofessional look"
+    },
+    {
+        "name": "travel-vlog",
+        "prompt": "{prompt} . personal vlog style movement, walking and talking shots, selfie angle movement, travel documentary flow",
+        "negative_prompt": "formal camera work, static professional shots"
+    },
+    {
+        "name": "sports-coverage",
+        "prompt": "{prompt} . dynamic sports camera work, fast-action following, athletic movement tracking, event coverage style",
+        "negative_prompt": "slow artistic shots, static frames, slow movement"
+    },
+    {
+        "name": "nature-documentary",
+        "prompt": "{prompt} . patient nature filming, wildlife camera work, observational movement, natural world style",
+        "negative_prompt": "rushed movement, artificial staging, unnatural timing"
+    },
+    {
+        "name": "drone-dynamic",
+        "prompt": "{prompt} . smooth aerial movement, dynamic drone shots, flowing flight paths, aerial cinematography",
+        "negative_prompt": "ground-level shots, static positions, non-aerial perspective"
+    },
+    {
+        "name": "architectural-showcase",
+        "prompt": "{prompt} . precise architectural camera work, building showcase movement, structural exploration, space revealing shots",
+        "negative_prompt": "shaky movement, unfocused framing, random motion"
+    }
+]

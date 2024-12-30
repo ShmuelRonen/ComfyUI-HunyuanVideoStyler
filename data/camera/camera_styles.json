@@ -1,0 +1,72 @@
+[
+    {
+    "name": "eye-level",
+    "prompt": "{prompt} . natural eye-level perspective, direct line of sight shot, standard human viewpoint, neutral camera height, balanced eye-level framing",
+    "negative_prompt": "high angle, low angle, bird's eye view, worm's eye view"
+	},
+	{
+        "name": "steady-tracking",
+        "prompt": "{prompt} . smooth tracking shot, stable camera movement, professional dolly motion, cinematic tracking",
+        "negative_prompt": "shaky camera, unstable movement, handheld camera"
+    },
+    {
+        "name": "aerial-view",
+        "prompt": "{prompt} . drone perspective, smooth aerial movement, bird's eye view, dynamic height changes",
+        "negative_prompt": "ground level, static angle, unstable flight path"
+    },
+    {
+        "name": "low-angle-hero",
+        "prompt": "{prompt} . dramatic low angle shot, looking up perspective, heroic angle, powerful upward view",
+        "negative_prompt": "high angle, looking down, eye level view"
+    },
+    {
+        "name": "high-angle-overview",
+        "prompt": "{prompt} . elevated view, looking down angle, comprehensive overview, dynamic high position",
+        "negative_prompt": "low angle, ground level, looking up"
+    },
+    {
+        "name": "dutch-angle",
+        "prompt": "{prompt} . tilted camera angle, dynamic diagonal composition, dramatic dutch tilt, unconventional framing",
+        "negative_prompt": "straight horizon, level camera, standard angle"
+    },
+    {
+        "name": "pov-shot",
+        "prompt": "{prompt} . first person perspective, point of view shot, immersive camera movement, subjective camera",
+        "negative_prompt": "third person view, external perspective, distant view"
+    },
+    {
+        "name": "orbital-shot",
+        "prompt": "{prompt} . circular camera movement, revolving shot, 360-degree motion, smooth orbital tracking",
+        "negative_prompt": "static camera, linear movement, fixed position"
+    },
+    {
+        "name": "crane-shot",
+        "prompt": "{prompt} . sweeping vertical movement, elegant crane motion, smooth ascending/descending camera",
+        "negative_prompt": "fixed height, static position, ground level only"
+    },
+    {
+        "name": "steadicam-follow",
+        "prompt": "{prompt} . smooth following shot, fluid camera movement, dynamic subject tracking, intimate motion",
+        "negative_prompt": "static camera, rigid movement, shaky footage"
+    },
+	{
+		"name": "dolly-zoom-in",
+		"prompt": "{prompt} . vertigo effect, dynamic perspective shift, dolly zoom in movement, push-in motion, camera moving forward while zooming out",
+		"negative_prompt": "static perspective, fixed focal length, stable background, dolly zoom out movement, push-out motion"
+	},
+	{
+		"name": "dolly-zoom-out",
+		"prompt": "{prompt} . vertigo effect, dynamic perspective shift, dolly zoom out movement, push-out motion, camera moving backward while zooming in",
+		"negative_prompt": "static perspective, fixed focal length, stable background, dolly zoom in movement, push-in motion"
+	},
+    {
+        "name": "gimbal-smooth",
+        "prompt": "{prompt} . ultra-smooth movement, stabilized motion, fluid camera flow, professional tracking",
+        "negative_prompt": "shaky footage, unstable movement, amateur recording"
+    },
+    {
+        "name": "whip-pan",
+        "prompt": "{prompt} . fast horizontal movement, dynamic direction change, rapid scene transition, energetic camera motion",
+        "negative_prompt": "slow pan, gentle movement, static shot"
+    }
+]
