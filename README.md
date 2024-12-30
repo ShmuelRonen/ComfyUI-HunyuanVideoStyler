@@ -2,6 +2,8 @@
 
 A custom node for ComfyUI that adds cinematic and movie scene styles to video generation prompts. This node helps create more dynamic and professional-looking video outputs by incorporating iconic movie scene aesthetics.
 
+![image](https://github.com/user-attachments/assets/758fadaf-810d-457a-9522-b73e09f547d9)
+
 ![image](https://github.com/user-attachments/assets/65d24b7b-d18d-43b1-bafd-6b116ae4f0b0)
 
 
