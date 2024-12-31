@@ -1,0 +1,72 @@
+[
+    {
+        "name": "dawn-emergence",
+        "prompt": "{prompt} . first light conditions, pre-sunrise illumination, early morning rays, dawn color temperature, emerging day lighting",
+        "negative_prompt": "full daylight, sunset colors, night darkness"
+    },
+    {
+        "name": "sunrise-moment",
+        "prompt": "{prompt} . rising sun illumination, horizontal sun rays, early morning shadows, sunrise color spectrum, morning rim lighting",
+        "negative_prompt": "overhead sun, sunset lighting, diffused daylight"
+    },
+    {
+        "name": "morning-progression",
+        "prompt": "{prompt} . climbing sun angle, morning shadow elongation, increasing light intensity, early day illumination, clear morning light",
+        "negative_prompt": "evening light, harsh noon sun, fading daylight"
+    },
+    {
+        "name": "mid-morning",
+        "prompt": "{prompt} . 45-degree sun angle, defined shadow formation, brightening daylight, mid-morning clarity, increasing contrast",
+        "negative_prompt": "early morning soft light, harsh noon light, evening shadows"
+    },
+    {
+        "name": "high-noon",
+        "prompt": "{prompt} . overhead sun position, minimal shadow length, maximum light intensity, vertical light rays, noon contrast ratio",
+        "negative_prompt": "angled shadows, soft lighting, directional light"
+    },
+    {
+        "name": "early-afternoon",
+        "prompt": "{prompt} . post-zenith sunlight, western shadow direction, strong daylight intensity, clear afternoon illumination",
+        "negative_prompt": "morning light, evening softness, diffused light"
+    },
+    {
+        "name": "late-afternoon",
+        "prompt": "{prompt} . descending sun angle, lengthening shadows, warming light temperature, afternoon directional light",
+        "negative_prompt": "morning coolness, overhead sun, night darkness"
+    },
+    {
+        "name": "golden-hour",
+        "prompt": "{prompt} . horizontal sun rays, warm color temperature, long shadow projection, low-angle illumination, sunset approach",
+        "negative_prompt": "cool light, overhead sun, neutral color temperature"
+    },
+    {
+        "name": "sunset-moment",
+        "prompt": "{prompt} . setting sun illumination, final day rays, sunset color range, evening rim light, horizontal light beams",
+        "negative_prompt": "rising sun, midday light, night darkness"
+    },
+    {
+        "name": "blue-hour",
+        "prompt": "{prompt} . post-sunset ambient light, pre-night illumination, blue color dominance, twilight lighting conditions",
+        "negative_prompt": "golden hour warmth, full darkness, daylight brightness"
+    },
+    {
+        "name": "dusk-transition",
+        "prompt": "{prompt} . fading natural light, emerging artificial lights, dusk illumination mix, evening light transition",
+        "negative_prompt": "full daylight, complete darkness, noon brightness"
+    },
+    {
+        "name": "early-night",
+        "prompt": "{prompt} . initial darkness, early evening lighting, first star visibility, diminishing ambient light",
+        "negative_prompt": "daytime brightness, complete darkness, twilight conditions"
+    },
+    {
+        "name": "deep-night",
+        "prompt": "{prompt} . full darkness conditions, minimal ambient light, night sky illumination, maximum star visibility",
+        "negative_prompt": "daylight presence, twilight remnants, dawn approach"
+    },
+    {
+        "name": "pre-dawn",
+        "prompt": "{prompt} . earliest light emergence, night-to-day transition, pre-morning glow, diminishing darkness",
+        "negative_prompt": "full daylight, sunset conditions, deep night darkness"
+    }
+]
