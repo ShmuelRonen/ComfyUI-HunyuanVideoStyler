@@ -1,72 +1,72 @@
 [
     {
-        "name": "handheld-documentary",
-        "prompt": "{prompt} . intimate handheld camera movement, documentary-style motion, natural shake, authentic movement, reactive camera work",
-        "negative_prompt": "static shots, perfectly stable, rigid movement"
+        "name": "continuous-shot",
+        "prompt": "{prompt} . unbroken sequence recording, sustained single take, uninterrupted scene capture, continuous action recording",
+        "negative_prompt": "multiple cuts, segmented shots, interrupted recording"
     },
     {
-        "name": "steadicam-flow",
-        "prompt": "{prompt} . smooth steadicam movement, fluid camera motion, elegant tracking, continuous flow, professional stabilization",
-        "negative_prompt": "shaky footage, unstable movement, jerky motion"
+        "name": "montage-sequence",
+        "prompt": "{prompt} . rapid shot succession, quick cut sequence, rhythmic shot pattern, fast-paced shot series",
+        "negative_prompt": "long takes, slow transitions, single shot sequence"
     },
     {
-        "name": "long-take",
-        "prompt": "{prompt} . continuous single shot, unbroken camera movement, flowing scene transition, sustained tracking shot",
-        "negative_prompt": "quick cuts, multiple shots, rapid editing"
+        "name": "multi-camera",
+        "prompt": "{prompt} . synchronized multiple angles, simultaneous capture setup, multi-view recording, parallel camera recording",
+        "negative_prompt": "single camera view, mono perspective, limited angles"
     },
     {
-        "name": "action-cam",
-        "prompt": "{prompt} . dynamic first-person movement, immersive pov shots, fast-paced camera work, high-energy motion",
-        "negative_prompt": "static shots, slow movement, distant perspective"
+        "name": "coverage-shooting",
+        "prompt": "{prompt} . comprehensive angle capture, multiple take variations, full scene coverage, complete action recording",
+        "negative_prompt": "single angle, limited coverage, incomplete capture"
     },
     {
-        "name": "news-style",
-        "prompt": "{prompt} . professional broadcast camera work, news coverage style, clear steady shots, journalistic movement",
-        "negative_prompt": "artistic shots, dramatic movement, cinematic style"
+        "name": "master-shot",
+        "prompt": "{prompt} . full scene wide capture, complete action coverage, establishing sequence recording, entire scene documentation",
+        "negative_prompt": "fragmented coverage, partial capture, incomplete scene"
     },
     {
-        "name": "music-video",
-        "prompt": "{prompt} . rhythmic camera movement, dynamic music video style, stylized motion, energetic camera work",
-        "negative_prompt": "static shots, documentary style, natural movement"
+        "name": "insert-shot",
+        "prompt": "{prompt} . detail emphasis recording, close-up action capture, specific element focus, particular detail documentation",
+        "negative_prompt": "wide shots, full scene, general coverage"
     },
     {
-        "name": "surveillance-cam",
-        "prompt": "{prompt} . fixed security camera angle, surveillance footage style, static monitoring shot, cctv perspective",
-        "negative_prompt": "moving camera, dynamic shots, cinematic movement"
+        "name": "parallel-action",
+        "prompt": "{prompt} . simultaneous event capture, multi-action recording, concurrent scene documentation, synchronous event shooting",
+        "negative_prompt": "single action, linear events, sequential capture"
     },
     {
-        "name": "vintage-film",
-        "prompt": "{prompt} . old film camera movement, classic cinema style, retro camera work, traditional pan and tilt",
-        "negative_prompt": "modern stabilization, digital smoothness, contemporary style"
+        "name": "reaction-shot",
+        "prompt": "{prompt} . response moment capture, emotional reaction recording, witness view documentation, observer shot capture",
+        "negative_prompt": "action shots, main event, direct capture"
     },
     {
-        "name": "commercial-polish",
-        "prompt": "{prompt} . high-end commercial shooting style, polished camera movement, premium production value, professional filming",
-        "negative_prompt": "amateur footage, rough movement, unprofessional look"
+        "name": "multicam-interview",
+        "prompt": "{prompt} . two-camera conversation capture, interview shot exchange, dialogue angle alternation, conversation coverage pattern",
+        "negative_prompt": "single camera dialogue, static interview, fixed angle"
     },
     {
-        "name": "travel-vlog",
-        "prompt": "{prompt} . personal vlog style movement, walking and talking shots, selfie angle movement, travel documentary flow",
-        "negative_prompt": "formal camera work, static professional shots"
+        "name": "b-roll-capture",
+        "prompt": "{prompt} . supplementary footage recording, contextual shot gathering, environmental detail capture, supporting scene documentation",
+        "negative_prompt": "main action, primary footage, key scene recording"
     },
     {
-        "name": "sports-coverage",
-        "prompt": "{prompt} . dynamic sports camera work, fast-action following, athletic movement tracking, event coverage style",
-        "negative_prompt": "slow artistic shots, static frames, slow movement"
+        "name": "cutaway-sequence",
+        "prompt": "{prompt} . related detail recording, contextual insert capture, supplementary angle documentation, relevant detail shooting",
+        "negative_prompt": "continuous main action, unbroken sequence, single focus"
     },
     {
-        "name": "nature-documentary",
-        "prompt": "{prompt} . patient nature filming, wildlife camera work, observational movement, natural world style",
-        "negative_prompt": "rushed movement, artificial staging, unnatural timing"
+        "name": "safety-shot",
+        "prompt": "{prompt} . backup angle recording, alternative coverage capture, reserve shot documentation, contingency angle shooting",
+        "negative_prompt": "single take, no alternatives, risk coverage"
     },
     {
-        "name": "drone-dynamic",
-        "prompt": "{prompt} . smooth aerial movement, dynamic drone shots, flowing flight paths, aerial cinematography",
-        "negative_prompt": "ground-level shots, static positions, non-aerial perspective"
+        "name": "crossing-line-sequence",
+        "prompt": "{prompt} . deliberate axis crossing, 180-degree line breach, perspective flip recording, viewpoint reversal capture",
+        "negative_prompt": "maintained axis, consistent side, stable perspective"
     },
     {
-        "name": "architectural-showcase",
-        "prompt": "{prompt} . precise architectural camera work, building showcase movement, structural exploration, space revealing shots",
-        "negative_prompt": "shaky movement, unfocused framing, random motion"
+        "name": "matching-action",
+        "prompt": "{prompt} . continuity movement capture, action match recording, seamless motion documentation, fluid sequence shooting",
+        "negative_prompt": "mismatched action, discontinuous movement, broken sequence"
     }
 ]
