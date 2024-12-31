@@ -1,72 +1,82 @@
 [
     {
-        "name": "slow-motion",
-        "prompt": "{prompt} . elegant slow motion effect, fluid temporal movement, high frame rate look, crisp motion detail, smooth action flow",
-        "negative_prompt": "normal speed, choppy movement, blurred motion"
+        "name": "motion-blur",
+        "prompt": "{prompt} . directional movement streak, velocity-based blur, speed motion trails, movement trace effect",
+        "negative_prompt": "sharp clarity, frozen motion, static image"
     },
     {
-        "name": "time-lapse",
-        "prompt": "{prompt} . dynamic time lapse movement, flowing cloud motion, accelerated sequences, smooth temporal compression",
-        "negative_prompt": "regular speed, static scenes, single moment"
-    },
-    {
-        "name": "particle-fx",
-        "prompt": "{prompt} . floating particles effect, dynamic particle movement, atmospheric dust, light rays with particles, magical floating elements",
-        "negative_prompt": "clean air, no particles, clear atmosphere"
+        "name": "time-slice",
+        "prompt": "{prompt} . multiple time frame capture, sequential moment freeze, time segment division, chronological slice effect",
+        "negative_prompt": "single moment, continuous time, fluid motion"
     },
     {
         "name": "double-exposure",
-        "prompt": "{prompt} . overlapping imagery, ethereal double exposure, blended scenes, dreamy overlay effect, transparent layers",
-        "negative_prompt": "single exposure, clear image, solid composition"
+        "prompt": "{prompt} . dual image overlay, transparency blend effect, image fusion technique, layered visual merger",
+        "negative_prompt": "single exposure, clear image, no overlay"
     },
     {
-        "name": "motion-blur",
-        "prompt": "{prompt} . dynamic motion trails, speed blur effect, movement streaks, action blur, velocity trails",
-        "negative_prompt": "static image, sharp details, frozen motion"
+        "name": "light-trails",
+        "prompt": "{prompt} . extended light exposure streak, illuminated motion path, light source tracing, brightness trail effect",
+        "negative_prompt": "static lights, point source lighting, no movement trails"
     },
     {
-        "name": "glitch-art",
-        "prompt": "{prompt} . digital glitch effects, data corruption aesthetic, dynamic interference, electronic distortion, pixelated artifacts",
-        "negative_prompt": "clean image, no distortion, clear picture"
+        "name": "particle-system",
+        "prompt": "{prompt} . floating element dispersion, particle flow animation, suspended point system, dynamic particle movement",
+        "negative_prompt": "solid objects, static elements, no particle effects"
     },
     {
-        "name": "light-streaks",
-        "prompt": "{prompt} . dynamic light trails, glowing streaks, luminous paths, energy trails, flowing light effects",
-        "negative_prompt": "static lighting, no trails, plain light"
+        "name": "strobe-effect",
+        "prompt": "{prompt} . rhythmic light pulsing, sequential flash capture, staccato light timing, intermittent illumination",
+        "negative_prompt": "continuous lighting, smooth illumination, steady light"
     },
     {
-        "name": "lens-flare",
-        "prompt": "{prompt} . cinematic lens flares, anamorphic streaks, dynamic light artifacts, optical flourishes, dramatic flare effects",
-        "negative_prompt": "no lens effects, clean image, flare-free"
+        "name": "prism-diffraction",
+        "prompt": "{prompt} . spectral light separation, rainbow color splitting, light spectrum dispersion, prismatic color effect",
+        "negative_prompt": "normal colors, no separation, standard lighting"
     },
     {
-        "name": "volumetric-fog",
-        "prompt": "{prompt} . atmospheric volumetric fog, dynamic mist movement, ethereal haze, smoky atmosphere, flowing fog effects",
-        "negative_prompt": "clear air, no fog, clean atmosphere"
+        "name": "lens-distortion",
+        "prompt": "{prompt} . optical warping effect, lens curvature distortion, perspective manipulation, spatial lens deformation",
+        "negative_prompt": "undistorted view, normal perspective, straight lines"
     },
     {
-        "name": "rain-effects",
-        "prompt": "{prompt} . dynamic rain drops, water streaks, rain motion, wet effects, atmospheric precipitation",
-        "negative_prompt": "dry scene, clear weather, no water effects"
+        "name": "digital-glitch",
+        "prompt": "{prompt} . data corruption artifact, digital signal interference, electronic distortion pattern, pixel displacement",
+        "negative_prompt": "clean image, no artifacts, clear signal"
     },
     {
-        "name": "energy-fx",
-        "prompt": "{prompt} . glowing energy effects, dynamic power streams, electrical arcs, flowing energy trails, magical power effects",
-        "negative_prompt": "no effects, plain scene, natural look"
+        "name": "time-echo",
+        "prompt": "{prompt} . motion afterimage trail, temporal ghost effect, movement echo overlay, action repeat pattern",
+        "negative_prompt": "single image, no trails, clean motion"
     },
     {
-        "name": "mirror-effect",
-        "prompt": "{prompt} . kaleidoscopic reflections, mirror plane effects, symmetrical duplications, reflecting surface movement",
-        "negative_prompt": "single image, no reflection, plain view"
+        "name": "kaleidoscopic",
+        "prompt": "{prompt} . symmetrical pattern multiplication, mirrored segment repeat, geometric image splitting, radial pattern replication",
+        "negative_prompt": "single view, no repetition, asymmetric image"
     },
     {
-        "name": "dream-sequence",
-        "prompt": "{prompt} . ethereal dreamy effect, soft focus transitions, flowing dreamlike movements, surreal motion blur",
-        "negative_prompt": "sharp reality, clear focus, normal perception"
+        "name": "chromatic-aberration",
+        "prompt": "{prompt} . color channel separation, rgb edge split, wavelength misalignment, color fringing effect",
+        "negative_prompt": "color accuracy, sharp edges, no color separation"
     },
     {
-        "name": "matrix-bullet-time",
-        "prompt": "{prompt} . frozen moment, 360-degree rotation, suspended action, bullet time effect, dynamic frozen frame",
-        "negative_prompt": "normal speed, single angle, continuous motion"
+        "name": "heat-distortion",
+        "prompt": "{prompt} . thermal wave warping, heat haze distortion, temperature ripple effect, thermal disturbance pattern",
+        "negative_prompt": "clear air, no distortion, stable image"
+    },
+    {
+        "name": "fractal-overlay",
+        "prompt": "{prompt} . recursive pattern generation, self-similar structure overlay, mathematical pattern effect, fractal geometry visual",
+        "negative_prompt": "simple patterns, non-recursive, plain overlay"
+    },
+    {
+        "name": "volumetric-rays",
+        "prompt": "{prompt} . visible light beam volume, atmospheric god rays, directional light scatter, beam volumetric effect",
+        "negative_prompt": "no light beams, flat lighting, no volumetrics"
+    },
+    {
+        "name": "phantom-motion",
+        "prompt": "{prompt} . transparent motion overlay, ghost movement trail, semi-visible action trace, ethereal movement pattern",
+        "negative_prompt": "solid movement, clear action, no transparency"
     }
 ]
