@@ -17,13 +17,17 @@ The HunyuanVideoStyler node enhances your video generation prompts with:
 
 ## Installation
 
-1. Clone this repository into your ComfyUI `custom_nodes` directory:
+Install from ComfyUI Manager
+
+or
+
+Clone this repository into your ComfyUI `custom_nodes` directory:
 ```bash
 cd ComfyUI/custom_nodes
 git clone https://github.com/ShmuelRonen/ComfyUI-HunyuanVideoStyler
 ```
 
-2. Restart ComfyUI
+Restart ComfyUI
 
 ## Usage
 
