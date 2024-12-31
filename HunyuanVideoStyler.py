@@ -50,15 +50,16 @@ class HunyuanVideoStyler:
     CATEGORY = 'conditioning/video'
     
     style_order = [
-        'movie_scenes',  # 1. Base movie scene reference
-        'timeofday',     # 2. Base environment - time
-        'weather',       # 3. Base environment - conditions
-        'lighting',      # 4. Light setup
-        'shooting',      # 5. Basic shooting approach
-        'camera',        # 6. Camera specifics
-        'composition',   # 7. Composition rules
-        'effects',       # 8. Special effects
-        'video_styles'   # 9. Overall style
+        'movie_scenes',    # 1. Base movie scene reference
+        'timeofday',       # 2. Base environment - time
+        'weather',         # 3. Base environment - conditions
+        'lighting',        # 4. Light setup
+        'shooting',        # 5. Basic shooting approach
+        'camera',          # 6. Camera specifics
+        'composition',     # 7. Composition rules
+        'effects',         # 8. Special effects
+        'video_styles',    # 9. Overall style
+        'cinematic_color'  # 10. Color styles
     ]
 
     @classmethod
