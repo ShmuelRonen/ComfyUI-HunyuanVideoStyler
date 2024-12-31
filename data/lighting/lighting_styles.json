@@ -1,62 +1,142 @@
 [
     {
-        "name": "golden-hour",
-        "prompt": "{prompt} . warm sunset lighting, soft golden rays, natural rim lighting, atmospheric sun flares, magic hour illumination, dynamic light rays",
-        "negative_prompt": "harsh lighting, flat illumination, dull lighting, artificial light"
+        "name": "rembrandt-lighting",
+        "prompt": "{prompt} . triangular light pattern on cheek, single side key light, strong light-to-shadow transition, dramatic facial illumination",
+        "negative_prompt": "flat lighting, even illumination, shadowless light"
     },
     {
-        "name": "dramatic-contrast",
-        "prompt": "{prompt} . high contrast lighting, strong shadows, dramatic chiaroscuro, dynamic light placement, moody illumination, cinematic shadows",
-        "negative_prompt": "flat lighting, even illumination, soft shadows, low contrast"
+        "name": "split-lighting",
+        "prompt": "{prompt} . half-face illumination, direct side lighting, strong light division, dramatic shadow split",
+        "negative_prompt": "even face lighting, soft shadows, balanced illumination"
     },
     {
-        "name": "soft-diffused",
-        "prompt": "{prompt} . soft diffused lighting, gentle illumination, wrapped lighting, flattering soft shadows, natural fill light",
-        "negative_prompt": "harsh shadows, strong contrast, hard lighting"
+        "name": "butterfly-lighting",
+        "prompt": "{prompt} . centered overhead light, butterfly shadow under nose, vertical facial illumination, beauty light setup",
+        "negative_prompt": "side lighting, uneven shadows, harsh facial lighting"
     },
     {
-        "name": "neon-noir",
-        "prompt": "{prompt} . colorful neon lighting, cyberpunk illumination, vibrant light sources, dynamic color contrast, atmospheric glow",
-        "negative_prompt": "natural lighting, daylight, soft illumination"
+        "name": "loop-lighting",
+        "prompt": "{prompt} . slight nose shadow, offset key light, gentle facial modeling, subtle light wrapping",
+        "negative_prompt": "harsh shadows, centered light, strong contrast"
     },
     {
-        "name": "moody-lowkey",
-        "prompt": "{prompt} . low-key lighting, dramatic shadows, minimal fill light, atmospheric darkness, strategic highlights",
-        "negative_prompt": "bright lighting, even illumination, high-key lighting"
+        "name": "broad-lighting",
+        "prompt": "{prompt} . wider face side illuminated, expanded light surface, fuller facial lighting, width-enhancing illumination",
+        "negative_prompt": "narrow lighting, short side lit, compressed light"
     },
     {
-        "name": "backlit-silhouette",
-        "prompt": "{prompt} . strong backlighting, dramatic silhouettes, rim lighting, atmospheric haze, dynamic light streaming",
-        "negative_prompt": "front lighting, flat illumination, even exposure"
+        "name": "short-lighting",
+        "prompt": "{prompt} . narrow face side illuminated, shadow-side facing camera, form-defining light, dramatic facial sculpting",
+        "negative_prompt": "broad lighting, flat illumination, even face light"
     },
     {
-        "name": "studio-beauty",
-        "prompt": "{prompt} . professional studio lighting, beauty dish main light, soft fill lights, hair light, controlled illumination",
-        "negative_prompt": "natural lighting, harsh shadows, uncontrolled light"
+        "name": "fresnel-spotlight",
+        "prompt": "{prompt} . focused beam lighting, controlled light spread, sharp shadow edges, directed spotlight effect",
+        "negative_prompt": "diffused light, soft edges, scattered illumination"
     },
     {
-        "name": "rainy-reflection",
-        "prompt": "{prompt} . wet surface reflections, dynamic puddle reflections, scattered light sources, moody rain lighting",
-        "negative_prompt": "dry surfaces, no reflections, flat lighting"
+        "name": "three-point-lighting",
+        "prompt": "{prompt} . key light main illumination, fill light shadow detail, rim light separation, balanced studio setup",
+        "negative_prompt": "single source light, flat lighting, no separation"
     },
     {
-        "name": "spot-dramatic",
-        "prompt": "{prompt} . focused spotlight, theatrical lighting, dramatic spotlight beam, concentrated illumination, dark surroundings",
-        "negative_prompt": "even lighting, full scene illumination, flat lighting"
+        "name": "paramount-lighting",
+        "prompt": "{prompt} . high centered key light, downward nose shadow, glamour lighting setup, classic hollywood illumination",
+        "negative_prompt": "side lighting, harsh shadows, unflattering angles"
     },
     {
-        "name": "natural-window",
-        "prompt": "{prompt} . soft window lighting, natural directional light, gentle shadows, atmospheric beams, interior daylight",
-        "negative_prompt": "artificial lighting, harsh illumination, studio lights"
+        "name": "rim-lighting",
+        "prompt": "{prompt} . edge light separation, backlit subject outline, glowing subject edges, background separation lighting",
+        "negative_prompt": "flat front lighting, no edge definition, lack of separation"
     },
     {
-        "name": "concert-dynamic",
-        "prompt": "{prompt} . dynamic stage lighting, moving light beams, color changing illumination, atmospheric haze, dramatic spotlights",
-        "negative_prompt": "static lighting, natural illumination, consistent light"
+        "name": "cross-lighting",
+        "prompt": "{prompt} . dual opposing light sources, cross-directional illumination, intersecting light beams, dynamic shadow creation",
+        "negative_prompt": "single direction light, uniform lighting, flat illumination"
     },
     {
-        "name": "firelight-warm",
-        "prompt": "{prompt} . warm flickering illumination, fire-lit atmosphere, dynamic orange glow, subtle shadow movement, cozy lighting",
-        "negative_prompt": "cold lighting, static illumination, daylight"
+        "name": "bounce-lighting",
+        "prompt": "{prompt} . indirect soft illumination, reflected light source, gentle shadow transition, diffused lighting effect",
+        "negative_prompt": "direct harsh lighting, hard shadows, strong contrast"
+    },
+    {
+        "name": "high-key-lighting",
+        "prompt": "{prompt} . bright overall illumination, minimal shadows, light tonal range, uniform bright lighting",
+        "negative_prompt": "dark shadows, high contrast, moody lighting"
+    },
+    {
+        "name": "low-key-lighting",
+        "prompt": "{prompt} . dominant shadow areas, selective illumination, dark tonal range, minimal highlight lighting",
+        "negative_prompt": "bright overall, high-key lighting, even illumination"
+    },
+    {
+        "name": "practical-lighting",
+        "prompt": "{prompt} . visible light source illumination, motivated lighting setup, natural light positioning, source-in-frame lighting",
+        "negative_prompt": "studio lighting, hidden sources, unmotivated light"
+    },
+    {
+        "name": "silhouette-lighting",
+        "prompt": "{prompt} . strong backlighting, dark subject front, shape-defining illumination, contrast edge lighting",
+        "negative_prompt": "front lit subject, visible details, low contrast"
+    },
+    {
+        "name": "kicker-lighting",
+        "prompt": "{prompt} . accent back quarter light, secondary edge illumination, subtle background separation, dimensional lighting accent",
+        "negative_prompt": "front-only lighting, flat illumination, no separation"
+    },
+    {
+        "name": "book-lighting",
+        "prompt": "{prompt} . double-diffused soft light, ultra-gentle shadow transition, wrapped illumination, extremely soft light quality",
+        "negative_prompt": "hard light, sharp shadows, direct lighting"
+    },
+    {
+        "name": "clamshell-lighting",
+        "prompt": "{prompt} . dual vertical light setup, above and below face illumination, beauty dish and reflector combination, shadowless facial lighting",
+        "negative_prompt": "side lighting, harsh shadows, single source light"
+    },
+    {
+        "name": "checkerboard-lighting",
+        "prompt": "{prompt} . alternating light pattern, grid lighting setup, sequential light and shadow, systematic illumination pattern",
+        "negative_prompt": "uniform lighting, random patterns, unstructured light"
+    },
+    {
+        "name": "paramount-reverse",
+        "prompt": "{prompt} . upward facing key light, reverse butterfly pattern, under-lighting effect, upward shadow casting",
+        "negative_prompt": "downward lighting, top shadows, standard paramount"
+    },
+    {
+        "name": "barn-door-lighting",
+        "prompt": "{prompt} . controlled light spill, precise light cutoff, shaped beam lighting, selective area illumination",
+        "negative_prompt": "uncontrolled light, full spill, undefined edges"
+    },
+    {
+        "name": "ring-light",
+        "prompt": "{prompt} . circular even illumination, shadowless front lighting, concentric catch lights, uniform facial lighting",
+        "negative_prompt": "side shadows, directional lighting, uneven illumination"
+    },
+    {
+        "name": "gobo-pattern",
+        "prompt": "{prompt} . patterned light projection, shadow pattern overlay, textured light effect, designed light shapes",
+        "negative_prompt": "plain lighting, no patterns, uniform illumination"
+    },
+    {
+        "name": "flag-negative",
+        "prompt": "{prompt} . selective light blocking, controlled shadow creation, precise light subtraction, shadow edge definition",
+        "negative_prompt": "uncontrolled light, full illumination, no shadow control"
+    },
+    {
+        "name": "snoot-spotlight",
+        "prompt": "{prompt} . tightly controlled beam, concentrated circle light, precise spot illumination, focused light column",
+        "negative_prompt": "wide beam, scattered light, broad coverage"
+    },
+    {
+        "name": "gradient-lighting",
+        "prompt": "{prompt} . smooth light-to-dark transition, progressive illumination change, graduated lighting effect, controlled fall-off",
+        "negative_prompt": "abrupt lighting changes, harsh transitions, uniform light"
+    },
+    {
+        "name": "multi-spot",
+        "prompt": "{prompt} . multiple focused beams, orchestrated spotlight array, combined spot lighting, strategic beam placement",
+        "negative_prompt": "single light source, unfocused lighting, scattered beams"
     }
 ]
