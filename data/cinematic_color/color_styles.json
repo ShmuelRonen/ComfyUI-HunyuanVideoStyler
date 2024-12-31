@@ -1,0 +1,142 @@
+[
+    {
+        "name": "noir-contrast",
+        "prompt": "{prompt} . high contrast black and white tones, deep shadow blacks, bright highlight whites, silver screen greyscale, dramatic tonal range",
+        "negative_prompt": "color imagery, flat contrast, muted tones, low dynamic range"
+    },
+    {
+        "name": "cyberpunk-neon",
+        "prompt": "{prompt} . magenta and cyan dominance, neon color saturation, electric blue highlights, deep purple shadows, synthetic color palette",
+        "negative_prompt": "natural colors, earth tones, muted palette, realistic coloring"
+    },
+    {
+        "name": "western-sepia",
+        "prompt": "{prompt} . warm sepia tones, dusty brown palette, sun-bleached colors, golden hour warmth, vintage western coloring",
+        "negative_prompt": "cool tones, vivid colors, modern palette, saturated look"
+    },
+    {
+        "name": "horror-desaturated",
+        "prompt": "{prompt} . bleached color palette, sickly green tint, pale skin tones, cold blue shadows, desaturated atmosphere",
+        "negative_prompt": "warm colors, vibrant tones, healthy saturation, natural palette"
+    },
+    {
+        "name": "vintage-technicolor",
+        "prompt": "{prompt} . oversaturated primary colors, vibrant kodachrome reds, rich jewel tones, classic film color palette, intense color separation",
+        "negative_prompt": "natural colors, subtle tones, muted palette, realistic coloring"
+    },
+    {
+        "name": "matrix-green",
+        "prompt": "{prompt} . digital green dominance, computer screen glow, phosphorous green tints, black matrix background, code-like color scheme",
+        "negative_prompt": "natural spectrum, varied palette, warm colors, realistic tones"
+    },
+    {
+        "name": "arctic-blue",
+        "prompt": "{prompt} . cold blue color cast, ice-like color palette, pale arctic tones, frozen color temperature, cool atmospheric tint",
+        "negative_prompt": "warm colors, earth tones, natural palette, sunny atmosphere"
+    },
+    {
+        "name": "desert-orange",
+        "prompt": "{prompt} . warm orange saturation, sand-colored palette, sun-scorched tones, heat-affected colors, arid atmosphere tint",
+        "negative_prompt": "cool colors, lush greens, water blues, cold tones"
+    },
+    {
+        "name": "romantic-pastel",
+        "prompt": "{prompt} . soft pastel color palette, gentle pink tones, dreamy color temperature, romantic color grading, delicate hue balance",
+        "negative_prompt": "harsh colors, dark tones, aggressive palette, high contrast"
+    },
+    {
+        "name": "1920s-silent",
+        "prompt": "{prompt} . orthochromatic film tones, blue sensitive black and white, high silver content look, early cinema tint, primitive color process",
+        "negative_prompt": "modern color, full spectrum, digital look"
+    },
+    {
+        "name": "1950s-kodachrome",
+        "prompt": "{prompt} . vibrant kodachrome reds, rich saturated colors, intense primary tones, classic film stock palette, americana color timing",
+        "negative_prompt": "muted colors, modern digital, flat profile"
+    },
+    {
+        "name": "1970s-faded",
+        "prompt": "{prompt} . faded color print look, vintage photo tones, warm color degradation, retro color shifting, aged film stock palette",
+        "negative_prompt": "fresh colors, modern clarity, digital crispness"
+    },
+    {
+        "name": "1980s-neon",
+        "prompt": "{prompt} . saturated neon palette, synthwave color scheme, electric pastel tones, retro-future colors, vintage electronic look",
+        "negative_prompt": "natural colors, subtle tones, realistic palette"
+    },
+    {
+        "name": "kubrick-sterile",
+        "prompt": "{prompt} . clinical white dominance, institutional color palette, stark color contrast, symmetrical color balance, precise color control",
+        "negative_prompt": "messy colors, organic palette, warm tones"
+    },
+    {
+        "name": "wes-anderson-palette",
+        "prompt": "{prompt} . pastel color harmony, symmetrical color blocking, curated vintage tones, whimsical color coordination, intentional color design",
+        "negative_prompt": "random colors, dark tones, realistic palette"
+    },
+    {
+        "name": "del-toro-fairytale",
+        "prompt": "{prompt} . rich dark fantasy palette, deep saturated colors, golden warm accents, teal and amber contrast, gothic color harmony",
+        "negative_prompt": "realistic colors, natural tones, flat palette"
+    },
+    {
+        "name": "lynch-surreal",
+        "prompt": "{prompt} . dark mysterious tones, velvet color depth, dream-like saturation, surreal color combinations, enigmatic color mood",
+        "negative_prompt": "natural colors, normal palette, realistic tones"
+    },
+    {
+        "name": "film-noir",
+        "prompt": "{prompt} . high contrast monochrome, deep black levels, bright highlight peaks, silver nitrate blacks, dramatic shadow tones",
+        "negative_prompt": "color imagery, flat contrast, low dynamic range"
+    },
+    {
+        "name": "gothic-horror",
+        "prompt": "{prompt} . desaturated dark tones, cold color temperature, pale highlight accents, eerie color cast, shadowy color depth",
+        "negative_prompt": "warm colors, bright tones, cheerful palette"
+    },
+    {
+        "name": "sci-fi-future",
+        "prompt": "{prompt} . technological color scheme, holographic color effects, artificial light tones, synthetic color harmony, futuristic palette",
+        "negative_prompt": "natural colors, vintage tones, organic palette"
+    },
+    {
+        "name": "romantic-comedy",
+        "prompt": "{prompt} . warm optimistic colors, light happy tones, soft romantic palette, cheerful color harmony, bright mood colors",
+        "negative_prompt": "dark colors, moody tones, serious palette"
+    },
+    {
+        "name": "orange-teal",
+        "prompt": "{prompt} . complementary color contrast, orange skin tones, teal shadow tinting, blockbuster color grade, popular cinema look",
+        "negative_prompt": "natural colors, subtle grading, realistic tones"
+    },
+    {
+        "name": "bleach-bypass",
+        "prompt": "{prompt} . reduced color saturation, increased contrast, metallic color effect, silver retention look, partial desaturation",
+        "negative_prompt": "full color, normal saturation, natural look"
+    },
+    {
+        "name": "cross-processed",
+        "prompt": "{prompt} . shifted color balance, unnatural color cast, extreme color contrast, chemical process look, alternative color development",
+        "negative_prompt": "normal colors, natural processing, correct color"
+    },
+    {
+        "name": "HDR-vivid",
+        "prompt": "{prompt} . extended dynamic range, super-saturated colors, extreme shadow detail, bright highlight retention, maximum color depth",
+        "negative_prompt": "low contrast, muted colors, limited range"
+    },
+    {
+        "name": "split-tone",
+        "prompt": "{prompt} . dual color highlighting, separate shadow toning, complementary color split, highlight shadow separation, tonal color divide",
+        "negative_prompt": "normal colors, single tone, unified palette"
+    },
+    {
+        "name": "bicolor-lighting",
+        "prompt": "{prompt} . two-color illumination, contrasting color cast, dual source coloring, color collision effect, binary color scheme",
+        "negative_prompt": "single color light, natural lighting, uniform color"
+    },
+    {
+        "name": "selective-color",
+        "prompt": "{prompt} . single color highlight, partial desaturation, isolated color focus, color accent technique, spot color emphasis",
+        "negative_prompt": "full color, complete saturation, even coloring"
+    }
+]
