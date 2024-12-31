@@ -1,197 +1,87 @@
 [
     {
         "name": "cinematic-epic",
-        "prompt": "{prompt} . cinematic scene with fluid camera movement, steady shots, shallow depth of field, atmospheric lighting, high production value, rich cinematography, moody, epic scale, natural motion, professional grade movement",
-        "negative_prompt": "shaky camera, amateur footage, poor lighting, unstable movement, low budget look, static shots"
+        "prompt": "{prompt} . fluid sequential storytelling, seamless scene transitions, progressive narrative flow, dynamic visual evolution, consistent pacing, measured temporal progression",
+        "negative_prompt": "choppy sequences, disconnected scenes, irregular timing, inconsistent flow"
     },
     {
         "name": "hollywood-blockbuster",
-        "prompt": "{prompt} . high-budget film production, IMAX quality footage, premium cinematography, spectacular camera movement, theatrical grade visuals, professional film industry standard",
-        "negative_prompt": "low budget, amateur production, poor quality, home video look"
-    },
-    {
-        "name": "classic-hollywood",
-        "prompt": "{prompt} . traditional Hollywood cinematography, classic movie lighting, elegant camera moves, professional film technique, golden age cinema style",
-        "negative_prompt": "modern style, amateur movement, experimental filming"
-    },
-    {
-        "name": "analog-vintage",
-        "prompt": "{prompt} . vintage film footage, super 8mm film look, natural film movement, analog video artifacts, light leaks, authentic film jitter, home video aesthetic, fluid motion",
-        "negative_prompt": "digital looking, static image, perfect quality, crisp digital, modern footage"
+        "prompt": "{prompt} . dynamic scene progression, high-energy sequence flow, impactful visual momentum, rhythmic action progression, momentum-driven pacing",
+        "negative_prompt": "slow progression, static sequences, lacking momentum, irregular pacing"
     },
     {
         "name": "documentary-real",
-        "prompt": "{prompt} . documentary style footage, natural camera movement, authentic lighting, raw footage aesthetic, professional steady shots, subtle motion, truthful capture",
-        "negative_prompt": "artificial movement, staged looking, overproduced, unnatural motion"
-    },
-    {
-        "name": "docudrama-style",
-        "prompt": "{prompt} . hybrid documentary-drama approach, realistic dramatic reconstruction, authentic yet cinematic movement, natural-looking staged scenes",
-        "negative_prompt": "pure documentary, completely staged, artificial looking, over-dramatic"
+        "prompt": "{prompt} . authentic moment capture, natural event progression, observational flow, unfolding real-time sequences, organic timing",
+        "negative_prompt": "staged sequences, artificial timing, forced progression"
     },
     {
         "name": "music-video-dynamic",
-        "prompt": "{prompt} . stylized music video sequence, rhythmic camera movement, dynamic transitions, vibrant visual flow, artistic color grading, synchronized motion",
-        "negative_prompt": "static shots, documentary style, natural movement, amateur footage"
+        "prompt": "{prompt} . rhythmic visual sequences, beat-synchronized flow, musical timing alignment, tempo-based transitions, dynamic rhythm matching",
+        "negative_prompt": "arrhythmic progression, off-beat timing, unsynchronized flow"
     },
     {
         "name": "slow-motion-art",
-        "prompt": "{prompt} . elegant slow motion sequence, smooth slow-motion capture, graceful movement, high frame rate look, fluid motion, cinematic time manipulation",
-        "negative_prompt": "normal speed, choppy movement, poor motion blur, amateur slow motion"
-    },
-    {
-        "name": "drone-aerial",
-        "prompt": "{prompt} . smooth aerial footage, dynamic drone movement, birds eye perspective, stable flying camera, professional aerial cinematography",
-        "negative_prompt": "ground level footage, shaky movement, unstable flight, amateur drone work"
+        "prompt": "{prompt} . temporal dilation flow, graceful time expansion, smooth slow progression, detailed motion evolution, stretched time sequences",
+        "negative_prompt": "regular speed flow, rushed timing, irregular slow motion"
     },
     {
         "name": "timelapse-flow",
-        "prompt": "{prompt} . dynamic timelapse sequence, smooth time compression, fluid movement through time, consistent exposure, beautiful motion flow",
-        "negative_prompt": "choppy timelapse, inconsistent exposure, poor transition, static looking"
-    },
-    {
-        "name": "vlog-style",
-        "prompt": "{prompt} . personal vlog aesthetic, authentic handheld movement, natural lifestyle footage, dynamic personal perspective, engaging camera work",
-        "negative_prompt": "overly stable, too professional, static shots, impersonal footage"
+        "prompt": "{prompt} . accelerated temporal progression, smooth time compression, consistent speed ramping, flowing time advancement, rhythmic acceleration",
+        "negative_prompt": "irregular speed, inconsistent progression, jumpy time flow"
     },
     {
         "name": "commercial-premium",
-        "prompt": "{prompt} . high-end commercial look, polished camera movement, professional lighting, smooth transitions, premium production quality",
-        "negative_prompt": "amateur quality, shaky footage, poor production value, unprofessional look"
+        "prompt": "{prompt} . polished sequence flow, premium pacing progression, refined timing, harmonious scene evolution, elegant visual rhythm",
+        "negative_prompt": "rough progression, uneven pacing, amateur sequencing"
     },
     {
         "name": "nature-documentary",
-        "prompt": "{prompt} . professional wildlife footage, smooth nature documentary style, organic movement, beautiful natural lighting, fluid camera work",
-        "negative_prompt": "artificial looking, staged scenes, unnatural motion, poor nature capture"
+        "prompt": "{prompt} . natural event unfolding, organic progression timing, wildlife sequence flow, environmental rhythm, natural momentum",
+        "negative_prompt": "artificial progression, forced timing, unnatural sequence"
     },
     {
         "name": "sports-action",
-        "prompt": "{prompt} . dynamic sports footage, fluid action capture, fast-paced camera work, smooth motion tracking, professional sports coverage",
-        "negative_prompt": "static sports shots, poor action capture, amateur coverage, blurry movement"
+        "prompt": "{prompt} . dynamic action progression, athletic sequence flow, momentum-based timing, energetic movement evolution, competitive rhythm",
+        "negative_prompt": "static action, broken momentum, sluggish progression"
     },
     {
         "name": "horror-tension",
-        "prompt": "{prompt} . suspenseful camera movement, creepy tracking shots, tension-building motion, atmospheric horror cinematography, eerie camera work",
-        "negative_prompt": "stable happy footage, bright cheerful movement, non-horror aesthetic"
+        "prompt": "{prompt} . suspense building progression, tension escalation flow, creeping timing evolution, dread momentum, atmospheric rhythm",
+        "negative_prompt": "rushed tension, inconsistent suspense, broken atmosphere"
     },
     {
         "name": "scifi-future",
-        "prompt": "{prompt} . futuristic camera movement, high-tech stabilized motion, sleek scifi aesthetics, advanced filming techniques, modern visual flow",
-        "negative_prompt": "vintage look, classical movement, traditional camera work, old-fashioned style"
+        "prompt": "{prompt} . futuristic sequence flow, advanced temporal progression, high-tech visual evolution, modern timing patterns, cutting-edge rhythm",
+        "negative_prompt": "dated progression, old-style timing, retro flow"
     },
     {
         "name": "romantic-soft",
-        "prompt": "{prompt} . gentle romantic camera movement, soft flowing motion, dreamy camera work, elegant transitions, emotional cinematography",
-        "negative_prompt": "harsh movement, aggressive camera work, unromantic aesthetic, rigid motion"
-    },
-    {
-        "name": "news-broadcast",
-        "prompt": "{prompt} . professional news coverage style, stable broadcast camera work, journalistic movement, clear steady footage, news-quality motion",
-        "negative_prompt": "artistic shots, unstable footage, amateur news coverage, poor broadcast quality"
-    },
-    {
-        "name": "anime-animation",
-        "prompt": "{prompt} . smooth anime movement, clean animation flow, high quality anime production, dynamic anime scenes, fluid character motion, Japanese animation style",
-        "negative_prompt": "static anime, rough animation, western cartoon, poor movement"
-    },
-    {
-        "name": "bollywood-dynamic",
-        "prompt": "{prompt} . vibrant Bollywood style, elaborate camera movements, energetic motion, colorful dynamic flow, dramatic Indian cinema aesthetic",
-        "negative_prompt": "subtle movement, minimalist style, understated motion"
+        "prompt": "{prompt} . gentle emotional flow, tender moment progression, soft rhythmic evolution, delicate timing, graceful sequence development",
+        "negative_prompt": "harsh progression, abrupt timing, rough flow"
     },
     {
         "name": "indie-film",
-        "prompt": "{prompt} . artistic independent film style, creative camera work, unique visual perspective, intimate cinematography, raw authentic movement",
-        "negative_prompt": "commercial look, generic shooting style, mainstream aesthetic"
+        "prompt": "{prompt} . unconventional sequence progression, artistic timing flow, creative rhythmic patterns, unique temporal evolution, experimental pacing",
+        "negative_prompt": "standard progression, conventional timing, traditional flow"
     },
     {
         "name": "experimental-art",
-        "prompt": "{prompt} . avant-garde video art, unconventional camera movement, abstract visual flow, artistic experimentation, creative motion",
-        "negative_prompt": "traditional filming, conventional movement, standard shots"
-    },
-    {
-        "name": "retro-wave",
-        "prompt": "{prompt} . 80s style motion, synthwave aesthetic, retro visual flow, vintage electronic look, nostalgic movement patterns",
-        "negative_prompt": "modern footage, contemporary style, current era look"
-    },
-    {
-        "name": "silent-film",
-        "prompt": "{prompt} . classic silent movie style, exaggerated theatrical movement, vintage black and white aesthetic, early cinema techniques, dramatic gestural action",
-        "negative_prompt": "modern style, natural movement, subtle acting, contemporary look"
-    },
-    {
-        "name": "martial-arts",
-        "prompt": "{prompt} . fluid martial arts camera work, dynamic action movement, smooth fight sequence flow, professional combat footage",
-        "negative_prompt": "static action, poor fight coverage, amateur movement"
+        "prompt": "{prompt} . avant-garde temporal flow, abstract progression patterns, non-linear timing, artistic rhythm evolution, innovative sequence development",
+        "negative_prompt": "conventional sequence, traditional timing, standard progression"
     },
     {
         "name": "dance-performance",
-        "prompt": "{prompt} . graceful dance footage, flowing performance capture, elegant movement tracking, artistic dance cinematography",
-        "negative_prompt": "rigid movement, poor dance coverage, amateur recording"
-    },
-    {
-        "name": "concert-live",
-        "prompt": "{prompt} . dynamic concert footage, live performance camera work, energetic stage coverage, professional music event filming",
-        "negative_prompt": "static concert shots, poor stage coverage, amateur recording"
-    },
-    {
-        "name": "fashion-runway",
-        "prompt": "{prompt} . high fashion camera movement, premium fashion show coverage, elegant runway filming, professional fashion cinematography",
-        "negative_prompt": "amateur fashion coverage, poor runway shots, unstable movement"
+        "prompt": "{prompt} . choreographed sequence flow, rhythmic movement progression, dance-timed evolution, graceful momentum, performance pacing",
+        "negative_prompt": "arrhythmic movement, uncoordinated flow, broken choreography"
     },
     {
         "name": "food-cinematography",
-        "prompt": "{prompt} . professional food video movement, elegant culinary footage, smooth food presentation flow, high-end cooking show style",
-        "negative_prompt": "amateur food videos, poor presentation, unstable shots"
+        "prompt": "{prompt} . culinary sequence progression, appetizing visual flow, food preparation rhythm, gastronomy timing, delicious moment evolution",
+        "negative_prompt": "rushed food sequences, unappealing progression, choppy preparation"
     },
     {
         "name": "travel-adventure",
-        "prompt": "{prompt} . dynamic travel footage, adventurous camera movement, exploration cinematography, professional journey documentation",
-        "negative_prompt": "static travel shots, poor movement, amateur tourism videos"
-    },
-    {
-        "name": "architectural-motion",
-        "prompt": "{prompt} . flowing architectural footage, elegant building exploration, smooth structural documentation, professional architecture cinematography",
-        "negative_prompt": "poor building coverage, amateur architecture shots"
-    },
-    {
-        "name": "wildlife-pro",
-        "prompt": "{prompt} . professional wildlife video, natural animal movement, smooth nature documentation, high-end wildlife cinematography",
-        "negative_prompt": "amateur wildlife footage, poor animal coverage, shaky nature shots"
-    },
-    {
-        "name": "underwater-pro",
-        "prompt": "{prompt} . smooth underwater footage, professional aquatic camera work, fluid marine cinematography, high-end underwater filming",
-        "negative_prompt": "amateur underwater shots, poor marine coverage, unstable aquatic footage"
-    },
-    {
-        "name": "extreme-sports",
-        "prompt": "{prompt} . dynamic sports footage, professional action sports coverage, fluid extreme sports movement, high-end adventure cinematography",
-        "negative_prompt": "amateur sports footage, poor action coverage, shaky movement"
-    },
-    {
-        "name": "handheld-intimate",
-        "prompt": "{prompt} . intimate handheld camera work, close personal framing, documentary-style movement, authentic wobble, emotionally connected filming",
-        "negative_prompt": "stable footage, distant framing, mechanical movement"
-    },
-    {
-        "name": "360-immersive",
-        "prompt": "{prompt} . 360-degree camera movement, full spherical coverage, immersive perspective, dynamic viewpoint changes, surrounding visual flow",
-        "negative_prompt": "fixed angle, limited perspective, single direction view"
-    },
-    {
-        "name": "mixed-media",
-        "prompt": "{prompt} . combination of different video styles, mixed format footage, creative media transitions, hybrid visual approach, multi-technique filming",
-        "negative_prompt": "single style, uniform look, consistent format"
-    },
-    {
-        "name": "dialogue-classic",
-        "prompt": "{prompt} . traditional shot/reverse shot dialogue, clean conversation coverage, professional speaker transitions, intimate dialogue framing",
-        "negative_prompt": "experimental angles, disjointed coverage, poor conversation flow"
-    },
-    {
-        "name": "subjective-pov",
-        "prompt": "{prompt} . first-person perspective movement, character point of view, subjective camera motion, immersive personal viewpoint",
-        "negative_prompt": "objective viewpoint, external perspective, disconnected movement"
+        "prompt": "{prompt} . journey progression flow, exploration timing, adventure sequence evolution, discovery rhythm, wanderlust momentum",
+        "negative_prompt": "static travel, stagnant progression, lifeless sequences"
     }
 ]
